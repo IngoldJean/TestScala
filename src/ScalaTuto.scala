@@ -1,4 +1,3 @@
-import scala.collection.mutable.ArrayBuffer
 import scala.io.StdIn.readLine
 import tutorial.Point
 
